@@ -12,3 +12,7 @@ Autoclose of tags and brackets
 Live Preview
 
 Tech Used - ReactJS
+
+
+npm install 
+npm run dev
